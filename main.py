@@ -3,7 +3,7 @@ import pandas as pd
 
 img_path = 'color.jpg'
 img = cv2.imread(img_path)
-
+   
 
 clicked = False
 r = g = b = x_pos = y_pos = 0
